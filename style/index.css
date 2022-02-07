@@ -1,8 +1,6 @@
 
 #navbar
 {
-    position: fixed;
-    top: 0;
     height: 2vw;
     border: 1px solid;
     padding: .5vw;
@@ -13,14 +11,12 @@
 #logo
 {
     border: 0px solid;
-    position: relative;
 }
 #loginSignupMenubox
 {
     border: 0px solid;
     display: flex;
     grid-gap: 1vw;
-    position: relative;
 }
 #count
 {
@@ -41,8 +37,6 @@
     display: grid;
     grid-template-columns: repeat(3,33%);
     grid-gap: .4vw;
-    margin-top: 4vw;
-
 }
 .ElementBox
 {
