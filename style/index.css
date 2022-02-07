@@ -13,12 +13,14 @@
 #logo
 {
     border: 0px solid;
+    position: relative;
 }
 #loginSignupMenubox
 {
     border: 0px solid;
     display: flex;
     grid-gap: 1vw;
+    position: relative;
 }
 #count
 {
