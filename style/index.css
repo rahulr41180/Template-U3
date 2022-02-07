@@ -1,0 +1,72 @@
+
+#navbar
+{
+    border: 1px solid;
+    padding: .5vw;
+    display: flex;
+    justify-content: space-between;
+}
+#logo
+{
+    border: 0px solid;
+}
+#loginSignupMenubox
+{
+    border: 0px solid;
+    display: flex;
+    grid-gap: 1vw;
+}
+#count
+{
+    border: 0px solid;
+}
+
+.login
+{
+    text-decoration: none;
+}
+#menu
+{
+    border: 0px solid;
+    width: 98vw;
+    margin: auto;
+    margin-top: .5vw;
+    padding: .5vw;
+    display: grid;
+    grid-template-columns: repeat(3,33%);
+    grid-gap: .4vw;
+
+}
+.ElementBox
+{
+    border: 0px solid;
+    padding: .4vw;
+    display: flex;
+}
+.ImageBox
+{
+    border: 0px solid;
+    width: 50%;
+    display: flex;
+}
+.Image
+{
+    
+    border: 1px solid blue;
+    width: 100%;
+    height: 15vw;
+}
+.DetailsBox
+{
+    border: 1px solid;
+    width: 48%;
+    padding-left: .5vw;
+    padding-top: .5vw;
+}
+.name
+{
+    border: 0px solid;
+    font-size: 1.4vw;
+    margin: auto;
+    margin-bottom: .4vw;
+}
